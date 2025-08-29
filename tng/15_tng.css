@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#clock{
+  font-size: 2rem;
+  color: blue;
+}
+
+span{
+  font-size: 1rem;
+  color: #000;
+}
+
+#stopWatch{
+  font-size: 2rem;
+  color: red;
+}
+
+
+
+
